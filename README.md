@@ -1,4 +1,13 @@
-### Hi there 👋
+## 👋 Hello, I'm Joon!
+
+I'm Joon, a 2B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering internships for Fall 2021.
+
+### 💻 Previous Work Experience
+- (Fall 2021) TBD
+- (Winter 2021) Software Development Intern @[TD Lab](http://tdlab.io/) 
+- (Spring 2020) Software Engineering Intern @[Allstate Insurance](https://www.allstate.ca/)
+
+
 
 <!--
 **Joon7891/Joon7891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
