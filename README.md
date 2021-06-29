@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Joon!
 
-I'm Joon, a 2B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering internships for Fall 2021.
+I'm Joon, a 2B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering or quantitative analyst/research internships for Fall 2021.
 
 ### 💻 Previous Work Experience
 - (Fall 2021) TBD
