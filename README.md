@@ -1,9 +1,9 @@
 ## 👋 Hello, I'm Joon!
 
-I'm Joon, a 2B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering or quantitative analyst/research internships for Fall 2021.
+I'm Joon, a 2B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering or quantitative analyst/research internships for Summer 2022.
 
 ### 💻 Previous Work Experience
-- (Fall 2021) TBD
+- (Fall 2021) TBA
 - (Winter 2021) Software Development Intern @[TD Lab](http://tdlab.io/) 
 - (Spring 2020) Software Engineering Intern @[Allstate Insurance](https://www.allstate.ca/)
 
