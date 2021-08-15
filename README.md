@@ -3,8 +3,8 @@
 I'm Joon, a 2B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering or quantitative analyst/research internships for Summer 2022.
 
 ### 💻 Previous Work Experience
-- (Fall 2021) TBA
-- (Winter 2021) Software Development Intern @[TD Lab](http://tdlab.io/) 
+- (Fall 2021) Quantitative Analyst Intern @[BMO Capital Markets](https://capitalmarkets.bmo.com/en/)
+- (Winter 2021) Software Engineering Intern @[TD Lab](http://tdlab.io/) 
 - (Spring 2020) Software Engineering Intern @[Allstate Insurance](https://www.allstate.ca/)
 
 
