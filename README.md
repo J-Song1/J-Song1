@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Joon!
 
-I'm Joon, a 3A Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently looking for software engineering or quantitative analyst/research internships for Summer 2022.
+I'm Joon, a 3B Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I am currently looking for software engineering or quantitative analyst/research internships for Fall 2022, Winter 2023, and Spring 2023.
 
 ### 💻 Previous Work Experience
 - (Fall 2021) Quantitative Analyst Intern @[BMO Capital Markets](https://capitalmarkets.bmo.com/en/)
