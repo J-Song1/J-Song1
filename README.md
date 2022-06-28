@@ -2,7 +2,7 @@
 
 I'm Joon, a 4A undergraduate student at the [University of Waterloo's Cheriton School of Computer Science](https://cs.uwaterloo.ca/). I am currently looking for software engineering or quantitative analyst/research internships for Winter and Spring 2023.
 
-### 💻 Previous Work Experience
+### 💻 Work Experience
 - [Fall 2022] Software Engineering Intern [@Snowflake, Data Platform Group](https://www.snowflake.com/) [[**NYSE:SNOW**]](https://www.bloomberg.com/quote/SNOW:US)
   - Data Lake and Storage
 - [Spring 2022] Undergraduate Research Assistant [@University of Waterloo, Data Systems Group](https://uwaterloo.ca/data-systems-group/)
